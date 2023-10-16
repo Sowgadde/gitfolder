@@ -1,2 +1,6 @@
 hello world
 How are you 
+git diff -->show the changes happened in the file 
+git status
+git init-->creates branch with master 
+git init -b main->creates branch with a specifeid name
