@@ -1,6 +1,16 @@
 hello world
 How are you 
-git diff -->show the changes happened in the file 
+git diff -->show the changes happened in the file while developing
+git diff --stagged -->know the diff while staging
 git status
 git init-->creates branch with master 
 git init -b main->creates branch with a specifeid name
+git add filename--> staging ki
+git log -->Helps to check commits
+git commit
+git commit -m "   " -->commit with a message displayed
+git commit -a -m "  "  -->skipps the staging area and directly commits
+git add . -->adds all the files
+git rm --cached creds.txt -->removes file from git repo but it is available in working directory
+exit
+
